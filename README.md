@@ -1,4 +1,4 @@
-# Febby-Fitri-Andini-Data_Analytics-Portfolio
+# Data Analytics Portfolio by Febby Fitri Andini
 
 Hi! My name is Febby Fitri Andini, just called me Febby or Andini. Here is my Portfolio as Data Analyst, please check it out!
 
