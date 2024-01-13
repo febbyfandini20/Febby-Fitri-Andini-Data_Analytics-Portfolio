@@ -12,7 +12,7 @@ Hi! My name is Febby Fitri Andini, just called me Febby or Andini. Here is my Po
 - Gathering Insights;
 - A/B Testing
 
-# Deck :
+## Deck :
 - https://docs.google.com/presentation/d/190AeygztxHL7nexLUUoFuogUWARccwXhHkOtFeB1lb8/edit#slide=id.g241e1f15add_0_15
 
 # SQL Skill sets:
@@ -23,7 +23,7 @@ Hi! My name is Febby Fitri Andini, just called me Febby or Andini. Here is my Po
 - SQL Date Format;
 - SQL Window Function
 
-# Code Example :
+## Code Example :
 1. 
 2. 
 3. 
@@ -40,7 +40,7 @@ Hi! My name is Febby Fitri Andini, just called me Febby or Andini. Here is my Po
 - Analyzing Using Visualization;
 - Cluster Analysis
 
-# Code Example:
+## Code Example:
 1. 
 2.
 
@@ -50,6 +50,8 @@ Hi! My name is Febby Fitri Andini, just called me Febby or Andini. Here is my Po
 - Visualization;
 - Calculated Field;
 - Interactive Dashboard
+
+## Example
 
 # Project Based Analytics
 1. 
