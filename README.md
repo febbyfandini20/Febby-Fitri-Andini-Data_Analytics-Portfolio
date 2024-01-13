@@ -13,7 +13,7 @@ Hi! My name is Febby Fitri Andini, just called me Febby or Andini. Here is my Po
 - A/B Testing
 
 ## Deck :
-- https://docs.google.com/presentation/d/190AeygztxHL7nexLUUoFuogUWARccwXhHkOtFeB1lb8/edit#slide=id.g241e1f15add_0_15
+[Data Cleaning and Processing in Spreadsheet](https://docs.google.com/presentation/d/190AeygztxHL7nexLUUoFuogUWARccwXhHkOtFeB1lb8/edit#slide=id.g241e1f15add_0_15)
 
 # SQL Skill sets:
 - Standard Query Syntax;
